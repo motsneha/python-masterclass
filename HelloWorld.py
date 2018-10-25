@@ -7,3 +7,5 @@ print("hello " + " world")
 greeting = "Morning"
 name = "Bruce"
 print(greeting + " " + name)
+
+print(r'C:\some\name')
